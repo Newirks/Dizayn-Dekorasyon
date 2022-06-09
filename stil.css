@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+.arkaplan { background-image:url();
+background-position:center; width:1216px; margin-left:auto; margin-right:auto;
+}
+.sayfabosluk { width:900px; background-color:#FFF;}
+.carousel-inner, .item { background-color:#999; height:400px; width:900px;}
+.icerikarka { padding-top:15px; background-image:url(img/icerik_arka.png);}
+.footer { height:300px;}
+.footerarka { background-image:url(img/footerarka.png); height:300px;}
+.footerarka2 { background-color:#666; height:70px;}
+.footeretiket { text-align:center; padding-bottom:15px; background-color:#333;}
+.butonetiket { background-color:#bad2ff;}
+.footerikon { color:#bad2ff;}
+.harita { padding-top:40px;}
+.footeryazi { color:#999; font-size:14px;}
+.footerbaslik { color:#FFF; padding-top:20px; }
+.footeraltyazi { color:#999; font-size:12px; padding-top:12px; }
+.footerarka2 .col-md-6 a {color:#999; font-size:12px; margin-bottom:10px;}
+.footerarka2 .col-md-6 a:hover {color:#fff; text-decoration:none;}
+.ikon { margin-right:10px; margin-top:20px;}
+.icerikbaslik { font-weight: bold; color:#bad2ff;}
+.icerikyazi { font-size:14px; color:#333;}
+.thumbnail { border-radius:0px;  margin-top:15px; padding:0px;}
+.thumbnailbaslik {
+	background-color: #bad2ff;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #FFF;
+	font-weight: bold;
+}
+.thumbnail .img-circle { height:250px; width:250px;}
+
+.tel { padding-left:60px; padding-top:10px;}
+.logo { padding-top:30px; padding-left:50px;}
+.ara { padding-top:20px; padding-left:55px;}
+.arabuton { background-color:#91027B;}
+.butonara { color:#FFF;}
+.ustdekor { height:10px; background-color:#bad2ff;}
+.girisyazi { padding-top:15px;}
+.katbtn { border-radius:0px; margin-left:20px;}
+.resimler { height:250px; width:400px;}
+.footerarka .col-md-4 ul { padding:0px;}
+.footerarka .col-md-4 ul li {
+	display: block;
+	padding: 3px;
+	list-style-type: none;
+}
+.footerarka .col-md-4 ul li a { text-decoration:none;}
+.about { padding-bottom:30px;}
+.references { padding-top:20px; padding-bottom:20px;}
+.references2 { width:150px; }
+.referencesyazi { text-align:center; margin-top:40px; font-size:20px;}
+.references3 { width:190px; height:190px; padding:10px;}
+.servicesimg { height:200px; width:200px;}
+.servicesyazi { margin-bottom:20px;}
+.servicesyazi1 { padding-top:70px;}
+.sayfaimg { width:885px; margin-top:5px;}
+.sayfaadi {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #CCC;
+	border-bottom-color: #CCC;
+	margin-top:10px;
+}
+.iletisimyazi { font-size:16px; }
+
+.ustarka .row .col-md-9 .row ul {
+	margin-top:25px;
+	margin-left:90px;
+	padding: 0px;
+}
+.ustarka .row .col-md-9 .row ul li {
+	list-style-type: none;
+	float: left;
+
+}
+.ustarka .row .col-md-9 .row ul li a {
+	text-decoration:none;
+	transition: all 200ms;
+	font-weight:bold;
+	color:#666;
+	display: block;
+	border-radius:5px;
+	padding:10px;
+	margin-right:5px;
+
+}
+.ustarka .row .col-md-9 .row ul li a:hover {
+	background-color:#bad2ff; 
+	color:#FFF; 
+}
+.galeri { text-align:center;}
